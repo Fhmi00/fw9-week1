@@ -1,0 +1,1 @@
+const skil = ["PHP","HTML","JavaScript"]
