@@ -1,0 +1,13 @@
+Algoritma memasak air
+
+1. Mulai
+2. Siapkan Panci
+3. Isi panci dengan air
+4. Siapkan kompor
+5. Pastikan kompor terhubung dengan sumber energi
+6. Taruh panci diatas kompor
+7. Hidupkan kompor
+8. Tutup panci
+9. Tunggu sampai air mendidih
+10. Matikan kompor
+11. Selesai

@@ -1,0 +1,5 @@
+algoritma ganjil genap
+
+1. mulai
+2. jika x modulo 2 = 0, maka x = genap
+3. selain itu x = ganjil

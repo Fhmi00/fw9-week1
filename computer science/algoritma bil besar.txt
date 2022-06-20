@@ -1,0 +1,5 @@
+1. mulai
+2. buat var x, y dan z
+3. jika x > y, maka z = x
+4. selain dari itu z = y
+5. selesai

@@ -1,0 +1,14 @@
+menghitung luas lingkaran
+
+1. Mulai
+2. tentukan jari jari lingkaran
+3. kalikan phi / 3.14 dengan kuadrat dari jari jari lingkaran
+4. selesai
+
+
+menghitung keliling lingkaran
+
+1. mulai
+2. tentukan jari jari lingkaran
+3. kalikan phi dengan jari jari kemudian kalikan 2
+4. selesai
